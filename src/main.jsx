@@ -8,6 +8,8 @@ const root = ReactDOM.createRoot(rootElement);
 
 root.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter basename="/portfolio-react-vite-app/">
+      <App />
+    </BrowserRouter>
   </React.StrictMode>
 );

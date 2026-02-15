@@ -1,7 +1,7 @@
 {
   "name": "portfolio-website",
-  "homepage": ".",
-  "private": true,
+  "homepage": "https://Mzk-Dev.github.io/portfolio-react-vite-app",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
